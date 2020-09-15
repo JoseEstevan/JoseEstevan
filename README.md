@@ -1,5 +1,5 @@
 <h1 align="center">Olá</h1>
-<h3 align="center">Meu nome é José Estevan, sou entusiasta da ciência de dados, fascinado por inovação e apaixonado pela tecnologia e seu jeito único de impactar a vida das pessoas.</h3>
+<h3 align="center">Meu nome é José Estevan, sou entusiasta de tecnologia, graduando em Sistemas de Informação, fascinado por inovação e ciência de dados.</h3>
 
 <h2 align="left">Projetos</h2>
 <h3 align="left"><a href="https://edapp.herokuapp.com/">EDApp</a></h3>
