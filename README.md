@@ -26,14 +26,6 @@ principais, com o propósito de extrair informações relevantes.</p>
 Feminino), de acordo com o nome escrito, foi criado a partir de
 dois modelos de machine learning.</p>
 
-<h3 align="center"></h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
-<a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
-</p>
-
-
 
 <h3 align="center">Redes Sociais</h3>
 
