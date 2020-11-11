@@ -11,15 +11,16 @@ um espaço em que posso praticar e testar coisas novas.<br/>                    
 mim para fins acadêmicos, de autoaprendizagem e hobby.<br/>
 Com o uso de diferentes modelos, métricas e ferramentas.</p>
 
+<h3 align="left"><a href="https://sites.google.com/view/digitalizzze">Digitalizze</a></h3>
+<p>É uma plataforma de busca de produtos e serviços, com foco em dar suporte e ajudar os pequenos negócios a se tornarem digitais.
+  Projeto desenvolvido durante o hackathon Empreenda Getnet.</p>
+
 <h3 align="left"><a href="https://edapp.herokuapp.com/">EDApp</a></h3>
 <p>EDApp foi criado com o objetivo de fornecer uma EDA (Exploratory
 Data Analysis) de forma simples e rápida. EDA é uma abordagem à
 análise de conjuntos de dados, de modo a resumir suas características
 principais, com o propósito de extrair informações relevantes.</p>
 
-<h3 align="left"><a href="https://sites.google.com/view/digitalizzze">Digitalizze</a></h3>
-<p>É uma plataforma de busca de produtos e serviços, com foco em dar suporte e ajudar os pequenos negócios a se tornarem digitais.
-  Projeto desenvolvido durante o hackathon Empreenda Getnet.</p>
 
 <h3 align="left"><a href="https://genderclass-app.herokuapp.com/">GenderClass App</a></h3> 
 <p>GenderClass é um app de classificação de gênero(Masculino ou
