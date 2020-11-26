@@ -1,10 +1,9 @@
 <h1 align="center">Olá</h1>
-<h3 align="center">Meu nome é José Estevan, sou entusiasta de tecnologia, graduando em Sistemas de Informação, fascinado por dados e inovação.</h3>
+<h3 align="center">Meu nome é José Estevan, sou Analista de Dados e Desenvolvedor Python, graduando em Sistemas de Informação, fascinado por dados e inovação.</h3>
 
 <h2 align="left">Projetos</h2>
 <h3 align="left"><a href="https://github.com/JoseEstevan/OverView">OverView</a></h3>
-<p>Repositório com análises feitas por mim, criado com o intuito de ser
-um espaço em que posso praticar e testar coisas novas.<br/>                                                                                                                        Este projeto tem como foco a visualização de dados e storytelling.</p>                                                               
+<p>Repositório com diferentes tipos de análises, criado com o intuito de praticar e testar coisas novas.<br/>                                                                      Este projeto tem como foco a visualização de dados e storytelling.</p>                                                               
 
 <h3 align="left"><a href="https://github.com/JoseEstevan/ML">ML</a></h3>
 <p>Repositório contendo projetos de machine learning concluídos por
