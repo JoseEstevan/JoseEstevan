@@ -1,37 +1,19 @@
-<h1 align="center">Olá</h1>
-<h3 align="center">Meu nome é José Estevan, sou Analista de Dados e Desenvolvedor Python, graduando em Sistemas de Informação, fascinado por dados e inovação.</h3>
-
-<h2 align="left">Projetos</h2>
-<h3 align="left"><a href="https://github.com/JoseEstevan/OverView">OverView</a></h3>
-<p>Repositório com diferentes tipos de análises, criado com o intuito de praticar e testar coisas novas.<br/>                                                                      Este projeto tem como foco a visualização de dados e storytelling.</p>                                                               
-
-<h3 align="left"><a href="https://github.com/JoseEstevan/ML">ML</a></h3>
-<p>Repositório contendo projetos de machine learning concluídos por
-mim para fins acadêmicos, de autoaprendizagem e hobby.<br/>
-Com o uso de diferentes modelos, métricas e ferramentas.</p>
-
-<h3 align="left"><a href="https://sites.google.com/view/digitalizzze">Digitalizze</a></h3>
-<p>É uma plataforma de busca de produtos e serviços, com foco em dar suporte e ajudar os pequenos negócios a se tornarem digitais.
-  Projeto desenvolvido durante o hackathon Empreenda Getnet.</p>
-
-<h3 align="left"><a href="https://edapp.herokuapp.com/">EDApp</a></h3>
-<p>EDApp foi criado com o objetivo de fornecer uma EDA (Exploratory
-Data Analysis) de forma simples e rápida. EDA é uma abordagem à
-análise de conjuntos de dados, de modo a resumir suas características
-principais, com o propósito de extrair informações relevantes.</p>
+<h1 align="center">Hi 👋, I'm José Estevan</h1>
+<h3 align="center">A passionate about Data, Machine Learning, Innovation and so on...</h3>
 
 
-<h3 align="left"><a href="https://genderclass-app.herokuapp.com/">GenderClass App</a></h3> 
-<p>GenderClass é um app de classificação de gênero(Masculino ou
-Feminino), de acordo com o nome escrito, foi criado a partir de
-dois modelos de machine learning.</p>
-
-
-<h3 align="center">Redes Sociais</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/joseestevan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joseestevan" height="30" width="30" /></a>
-<a href="https://medium.com/@joseestevan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joseestevan" height="30" width="30" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@dylanroy" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joseestevan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://joseestevan.com.br" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
 </p>
 
-Fique à vontade para entrar em contato através do meu email jose.estevan1524@gmail.com.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/> </a> <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseestevan&show_icons=true&locale=en&layout=compact" alt="joseestevan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseestevan&show_icons=true&locale=en" alt="joseestevan" /></p>
+
+Feel free to contact me throgh my email email jose.estevan1524@gmail.com.
