@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseestevan&show_icons=true&locale=en" alt="joseestevan" /></p>
 
-Feel free to contact me throgh my email email jose.estevan1524@gmail.com.
+Feel free to contact me throgh my email email jose.estevan@ifood.com.br
